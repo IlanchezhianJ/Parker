@@ -1,0 +1,14 @@
+C:\Data\GitRepo\PrimaryGitRepo\Parker\Parker.Interface\bin\Debug\Parker.Interface.dll
+C:\Data\GitRepo\PrimaryGitRepo\Parker\Parker.Interface\bin\Debug\Parker.Interface.pdb
+C:\Data\GitRepo\PrimaryGitRepo\Parker\Parker.Interface\bin\Debug\Parker.Entity.dll
+C:\Data\GitRepo\PrimaryGitRepo\Parker\Parker.Interface\bin\Debug\Parker.Entity.pdb
+C:\Data\GitRepo\PrimaryGitRepo\Parker\Parker.Interface\obj\Debug\Parker.Interface.csprojResolveAssemblyReference.cache
+C:\Data\GitRepo\PrimaryGitRepo\Parker\Parker.Interface\obj\Debug\Parker.Interface.dll
+C:\Data\GitRepo\PrimaryGitRepo\Parker\Parker.Interface\obj\Debug\Parker.Interface.pdb
+D:\VSVERSION2\Parker\Parker.Interface\bin\Debug\Parker.Interface.dll
+D:\VSVERSION2\Parker\Parker.Interface\bin\Debug\Parker.Interface.pdb
+D:\VSVERSION2\Parker\Parker.Interface\bin\Debug\Parker.Entity.dll
+D:\VSVERSION2\Parker\Parker.Interface\bin\Debug\Parker.Entity.pdb
+D:\VSVERSION2\Parker\Parker.Interface\obj\Debug\Parker.Interface.csprojResolveAssemblyReference.cache
+D:\VSVERSION2\Parker\Parker.Interface\obj\Debug\Parker.Interface.dll
+D:\VSVERSION2\Parker\Parker.Interface\obj\Debug\Parker.Interface.pdb

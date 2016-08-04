@@ -1,0 +1,12 @@
+C:\Data\GitRepo\PrimaryGitRepo\Parker\Parker.ConsoleUI\bin\Debug\Parker.ConsoleUI.exe.config
+C:\Data\GitRepo\PrimaryGitRepo\Parker\Parker.ConsoleUI\bin\Debug\Parker.ConsoleUI.exe
+C:\Data\GitRepo\PrimaryGitRepo\Parker\Parker.ConsoleUI\bin\Debug\Parker.ConsoleUI.pdb
+C:\Data\GitRepo\PrimaryGitRepo\Parker\Parker.ConsoleUI\obj\Debug\Parker.ConsoleUI.exe
+C:\Data\GitRepo\PrimaryGitRepo\Parker\Parker.ConsoleUI\obj\Debug\Parker.ConsoleUI.pdb
+C:\Data\GitRepo\PrimaryGitRepo\Parker\Parker.ConsoleUI\obj\Debug\Parker.ConsoleUI.csprojResolveAssemblyReference.cache
+D:\VSVERSION2\Parker\Parker.ConsoleUI\bin\Debug\Parker.ConsoleUI.exe.config
+D:\VSVERSION2\Parker\Parker.ConsoleUI\obj\Debug\Parker.ConsoleUI.exe
+D:\VSVERSION2\Parker\Parker.ConsoleUI\obj\Debug\Parker.ConsoleUI.pdb
+D:\VSVERSION2\Parker\Parker.ConsoleUI\bin\Debug\Parker.ConsoleUI.exe
+D:\VSVERSION2\Parker\Parker.ConsoleUI\bin\Debug\Parker.ConsoleUI.pdb
+D:\VSVERSION2\Parker\Parker.ConsoleUI\obj\Debug\Parker.ConsoleUI.csprojResolveAssemblyReference.cache

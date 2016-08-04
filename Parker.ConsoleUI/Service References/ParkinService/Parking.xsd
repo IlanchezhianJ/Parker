@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Parker.Entity" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Parker.Entity" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost/Parker.Service/Parking.svc?xsd=xsd4" namespace="http://schemas.datacontract.org/2004/07/Parker.Entity.CustomType" />
+  <xs:complexType name="ParkingToken">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:Vehicle">
+        <xs:sequence>
+          <xs:element name="_x003C_CheckinTime_x003E_k__BackingField" type="xs:dateTime" />
+          <xs:element name="_x003C_ParkingNumber_x003E_k__BackingField" type="xs:int" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="ParkingToken" nillable="true" type="tns:ParkingToken" />
+  <xs:complexType name="Vehicle">
+    <xs:sequence>
+      <xs:element name="_x003C_OwnerInfo_x003E_k__BackingField" nillable="true" type="xs:string" />
+      <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/Parker.Entity.CustomType" name="_x003C_VehicleType_x003E_k__BackingField" type="q1:VehicleType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Vehicle" nillable="true" type="tns:Vehicle" />
+</xs:schema>

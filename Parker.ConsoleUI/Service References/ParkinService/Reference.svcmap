@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="17711d88-9386-4111-8f2a-83a1f02f52a2" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/Parker.service/Parking.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Parking.xsd" MetadataType="Schema" ID="dfc90df7-16c6-4a38-b8ba-f0b1a65aaf28" SourceId="1" SourceUrl="http://localhost/Parker.Service/Parking.svc?xsd=xsd3" />
+    <MetadataFile FileName="Parking1.xsd" MetadataType="Schema" ID="fc1a956b-c7f5-419c-b93b-d4c8d95e0ffe" SourceId="1" SourceUrl="http://localhost/Parker.Service/Parking.svc?xsd=xsd1" />
+    <MetadataFile FileName="Parking2.xsd" MetadataType="Schema" ID="4ecab628-fcd2-4ca7-a6fd-1348dc692d05" SourceId="1" SourceUrl="http://localhost/Parker.Service/Parking.svc?xsd=xsd2" />
+    <MetadataFile FileName="Parking3.xsd" MetadataType="Schema" ID="1c3cf226-5e1c-4278-8c18-d01a36bad858" SourceId="1" SourceUrl="http://localhost/Parker.Service/Parking.svc?xsd=xsd4" />
+    <MetadataFile FileName="Parking4.xsd" MetadataType="Schema" ID="a2f3ceda-111b-4cd3-9fa0-51441b790e23" SourceId="1" SourceUrl="http://localhost/Parker.Service/Parking.svc?xsd=xsd0" />
+    <MetadataFile FileName="Parking.disco" MetadataType="Disco" ID="e38990bf-b98b-4e97-bc47-b80749e6a51a" SourceId="1" SourceUrl="http://localhost/Parker.Service/Parking.svc?disco" />
+    <MetadataFile FileName="Parking.wsdl" MetadataType="Wsdl" ID="6d2bab22-4656-45bb-ace2-bde57981a9c2" SourceId="1" SourceUrl="http://localhost/Parker.Service/Parking.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

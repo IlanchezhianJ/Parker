@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Floors>
+  
+  <!--Floor 1-->
+  <Floor>
+    
+    <FloorNumber>F1</FloorNumber>
+    
+    <VehicleMaxLimit>
+        <car>100</car>
+        <van>50</van>
+        <bus>300</bus>
+    </VehicleMaxLimit>
+
+    <VehicleCount>
+        <car>15</car>
+        <van>20</van>
+        <bike>120</bike>
+    </VehicleCount>
+
+  </Floor>
+
+  <!--Floor 2-->
+  <Floor>
+
+    <FloorNumber>F2</FloorNumber>
+
+    <VehicleMaxLimit>      
+        <car>100</car>      
+        <van>50</van>
+        <bike>300</bike>
+    </VehicleMaxLimit>
+    
+    <VehicleCount>
+        <car>15</car>
+        <van>20</van>
+        <bike>120</bike>
+    </VehicleCount>
+    
+  </Floor>
+
+  <!--Floor 3-->
+  <Floor>
+
+    <FloorNumber>F3</FloorNumber>
+
+    <VehicleMaxLimit>
+      <car>100</car>
+      <van>50</van>
+      <bike>300</bike>
+    </VehicleMaxLimit>
+
+    <VehicleCount>
+      <car>75</car>
+      <van>28</van>
+      <bike>180</bike>
+    </VehicleCount>
+
+  </Floor>
+</Floors>

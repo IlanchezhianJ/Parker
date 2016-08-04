@@ -1,0 +1,9 @@
+C:\Data\GitRepo\PrimaryGitRepo\Parker\Parker.Entity\bin\Debug\Parker.Entity.dll
+C:\Data\GitRepo\PrimaryGitRepo\Parker\Parker.Entity\bin\Debug\Parker.Entity.pdb
+C:\Data\GitRepo\PrimaryGitRepo\Parker\Parker.Entity\obj\Debug\Parker.Entity.dll
+C:\Data\GitRepo\PrimaryGitRepo\Parker\Parker.Entity\obj\Debug\Parker.Entity.pdb
+D:\VSVERSION2\Parker\Parker.Entity\bin\Debug\Parker.Entity.dll
+D:\VSVERSION2\Parker\Parker.Entity\bin\Debug\Parker.Entity.pdb
+D:\VSVERSION2\Parker\Parker.Entity\obj\Debug\Parker.Entity.dll
+D:\VSVERSION2\Parker\Parker.Entity\obj\Debug\Parker.Entity.pdb
+D:\VSVERSION2\Parker\Parker.Entity\obj\Debug\Parker.Entity.csprojResolveAssemblyReference.cache

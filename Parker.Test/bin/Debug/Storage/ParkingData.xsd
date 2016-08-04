@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+  <xs:element name="Floors">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Floor" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="FloorNumber" type="xs:string"></xs:element>
+              <xs:element name="VehicleMaxLimit">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="car" type="xs:int"></xs:element>
+                    <xs:element name="van" type="xs:int"></xs:element>
+                    <xs:element name="bike" type="xs:int"></xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="VehicleCount">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="car" type="xs:int"></xs:element>
+                    <xs:element name="van" type="xs:int"></xs:element>
+                    <xs:element name="bike" type="xs:int"></xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

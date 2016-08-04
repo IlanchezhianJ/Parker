@@ -1,0 +1,8 @@
+C:\Data\GitRepo\PrimaryGitRepo\Parker\Parker.Exceptions\bin\Debug\Parker.Exceptions.dll
+C:\Data\GitRepo\PrimaryGitRepo\Parker\Parker.Exceptions\bin\Debug\Parker.Exceptions.pdb
+C:\Data\GitRepo\PrimaryGitRepo\Parker\Parker.Exceptions\obj\Debug\Parker.Exceptions.dll
+C:\Data\GitRepo\PrimaryGitRepo\Parker\Parker.Exceptions\obj\Debug\Parker.Exceptions.pdb
+D:\VSVERSION2\Parker\Parker.Exceptions\bin\Debug\Parker.Exceptions.dll
+D:\VSVERSION2\Parker\Parker.Exceptions\bin\Debug\Parker.Exceptions.pdb
+D:\VSVERSION2\Parker\Parker.Exceptions\obj\Debug\Parker.Exceptions.dll
+D:\VSVERSION2\Parker\Parker.Exceptions\obj\Debug\Parker.Exceptions.pdb
